@@ -1,0 +1,124 @@
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Owin.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+C:\juhi\testing api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\juhi\testing api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\juhi\testing api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\EntityFramework.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Owin.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\WebGrease.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\EntityFramework.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\New folder (4)\WebApplication1-20180410T170138Z-001\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
